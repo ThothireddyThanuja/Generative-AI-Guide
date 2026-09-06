@@ -1,4 +1,3 @@
-Your understanding is **mostly correct**, but there are two important corrections:
 
 1. A tokenizer does **not necessarily split only by words**. It can split text into words, subwords, punctuation, or other token pieces.
 2. The process of converting **token IDs back into token text** is called **detokenization**, not tokenization.
