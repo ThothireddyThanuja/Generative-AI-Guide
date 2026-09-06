@@ -1,7 +1,3 @@
-
-1. A tokenizer does **not necessarily split only by words**. It can split text into words, subwords, punctuation, or other token pieces.
-2. The process of converting **token IDs back into token text** is called **detokenization**, not tokenization.
-
 ### Beginner-friendly notes
 
 ## Tokens
@@ -151,6 +147,11 @@ Final Text
 ```
 
 ### Interview-ready answer
+
+Note:
+
+1. A tokenizer does **not necessarily split only by words**. It can split text into words, subwords, punctuation, or other token pieces.
+2. The process of converting **token IDs back into token text** is called **detokenization**, not tokenization.
 
 > **Tokenization is the process of converting input text into smaller pieces called tokens and mapping those tokens to numerical token IDs that an LLM can process. The LLM then generates output token IDs, which are converted back into readable text through detokenization.**
 
