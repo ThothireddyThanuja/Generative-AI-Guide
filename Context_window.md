@@ -1,5 +1,3 @@
-Yes — your understanding is correct. I would phrase it a little more precisely for your notes.
-
 ## Context Window
 
 A **Context Window** is the maximum amount of information an LLM can **consider in a single request/conversation context**.
