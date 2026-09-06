@@ -1,0 +1,1 @@
+This repository is my ongoing Generative AI learning journey. I’m documenting each topic as I learn it, breaking down complex concepts into simple explanations, and adding examples and hands-on implementations to build a strong understanding from the fundamentals to advanced concepts.
