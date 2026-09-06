@@ -1,5 +1,3 @@
-### Beginner-friendly notes
-
 ## Tokens
 
 A **token** is a small piece of text that an LLM can process.
